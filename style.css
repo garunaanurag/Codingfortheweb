@@ -1,0 +1,67 @@
+@font-face {
+    font-family: 'clash';
+    src: url(fonts/ClashDisplay-Variable.ttf);
+    font-weight: normal;
+
+}
+
+@font-face {
+    font-family: 'harmony';
+    src: url(fonts/HARMONY\ Personal\ use.otf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'neutralFace';
+    src: url(fonts/NeutralFace.otf);
+    font-weight: normal;
+}
+
+
+
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.heading {
+    font-family: 'clash';
+    text-align: center;
+    
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+
+.heading pre{
+    font-family: 'clash';
+    text-align: center;
+    
+}
+
+.parent {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.container1 {
+    font-family: 'clash';
+    width: 30%;
+    margin-left: 10%;
+    margin-top: 5%;
+    
+}
+
+.container2 {
+    font-family: 'clash';
+    width: 30%;
+    margin-left: 10%;
+    margin-top: 5%;
+    
+}
